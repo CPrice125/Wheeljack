@@ -27,4 +27,4 @@
 I am a student enrolled at UTSA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m studying Cyber Security
 - :zap: In my free time, I play video games.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris Price-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
